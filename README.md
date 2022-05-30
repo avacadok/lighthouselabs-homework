@@ -5,7 +5,7 @@
 ###### This is an H6 header (smallest) -->
 
 * [Week 1](/lighthouse-web-notes/Week_1)
-    * [Day 1](/lighthouse-web-notes/Week_1/Day_1): Complete Compass exercises and learn how to edit the README file.
+    * [Day 1](/lighthouse-web-notes/Week_1/Day_1/What_Should_I_Do_for_Lunch_Tips.md): Complete Compass exercises and learn how to edit the README file.
 
           
 
